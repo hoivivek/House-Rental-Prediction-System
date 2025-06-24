@@ -9,6 +9,7 @@ arrive at a valuation. Leveraging the growing abundance of data and by using Mac
 Learning algorithms, we can predict house rents faster and more accurately than 
 traditional methods. This helps buyers, tenants, sellers, banks, and insurers to make more 
 informed decisions. 
+
 The dataset consisting of features such as price, count of rooms and bathrooms, 
 location, etc., was utilized for this project. The next step was to pre-process the data and 
 then to apply various Machine Learning algorithms, which were evaluated by metrics 
